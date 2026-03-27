@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Pushkar Visave! 👋
 
 ### 🚀 Data Scientist | Machine Learning Enthusiast | Master's Student at IIT
@@ -66,6 +65,12 @@ I am a Data Scientist and Analytics Professional with over 2 years of experience
 
 ---
 
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[pushkar-visave]&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[pushkar-visave]&layout=compact&theme=radical)
+
+---
 
 ### 📫 Let's Connect!
 
