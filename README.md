@@ -65,13 +65,6 @@ I am a Data Scientist and Analytics Professional with over 2 years of experience
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[INSERT YOUR USERNAME]&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[INSERT YOUR USERNAME]&layout=compact&theme=radical)
-
----
-
 ### 📫 Let's Connect!
 
 * **LinkedIn:** [linkedin.com/in/pushkar-visave/](https://linkedin.com/in/pushkar-visave/)
