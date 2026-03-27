@@ -2,7 +2,7 @@
 
 ### 🚀 Data Scientist | Machine Learning Enthusiast | Master's Student at IIT
 
-I am a Data Scientist and Analytics Professional with over 2 years of experience building scalable ETL pipelines, predictive models, and production-ready AI solutions[cite: 1]. Currently, I'm pursuing my Master of Applied Science in Data Science at the Illinois Institute of Technology, maintaining a 3.88 GPA while focusing on deploying impactful machine learning architectures[cite: 1]. I’m passionate about turning complex datasets into actionable intelligence that drives efficiency and growth[cite: 1].
+I am a Data Scientist and Analytics Professional with over 2 years of experience building scalable ETL pipelines, predictive models, and production-ready AI solutions. Currently, I'm pursuing my Master of Applied Science in Data Science at the Illinois Institute of Technology, maintaining a 3.88 GPA while focusing on deploying impactful machine learning architectures. I’m passionate about turning complex datasets into actionable intelligence that drives efficiency and growth.
 
 ---
 
@@ -38,44 +38,44 @@ I am a Data Scientist and Analytics Professional with over 2 years of experience
 
 ### 💼 Work Experience
 
-**Data Science Intern | Source Code Technology** (July 2023 – Jan 2024)[cite: 1]
-* Architected Python/SQL ETL pipelines for clinical trial data, reducing errors by 85%[cite: 1].
-* Led a team of 15 to optimize workflows, accelerating intelligence brief delivery to field teams[cite: 1].
-* Deployed NLP-driven Power BI dashboards to identify high-risk trafficking patterns[cite: 1].
+**Data Science Intern | Source Code Technology** (July 2023 – Jan 2024)
+* Architected Python/SQL ETL pipelines for clinical trial data, reducing errors by 85%.
+* Led a team of 15 to optimize workflows, accelerating intelligence brief delivery to field teams.
+* Deployed NLP-driven Power BI dashboards to identify high-risk trafficking patterns.
 
-**Data Science Intern | Acme Grade** (Oct 2022 – Dec 2022)[cite: 1]
-* Engineered automated ingestion systems that increased project throughput by 30%[cite: 1].
-* Developed Time-Series models (Prophet, ARIMA) for e-commerce clients, improving forecast reliability by 18%[cite: 1].
-* Visualized complex KPIs in Tableau, contributing to a 12% growth in quarterly sales[cite: 1].
+**Data Science Intern | Acme Grade** (Oct 2022 – Dec 2022)
+* Engineered automated ingestion systems that increased project throughput by 30%.
+* Developed Time-Series models (Prophet, ARIMA) for e-commerce clients, improving forecast reliability by 18%.
+* Visualized complex KPIs in Tableau, contributing to a 12% growth in quarterly sales.
 
 ---
 
 ### 📌 Featured Projects
 
-* **Chicago Transit Authority Big Data Insights** (2026): Evaluated XGBoost and CatBoost models on historical traffic data to optimize urban congestion management[cite: 1].
-* **Human Skin Disease Detection** (2025): Designed a CNN architecture achieving 92% accuracy across 50,000+ clinical images, reducing diagnostic time by 14%[cite: 1].
-* **Marketing Campaign Performance Dashboard** (2025): Automated real-time tracking for 50K+ records, improving Cost-Per-Acquisition by 18%[cite: 1].
+* **Chicago Transit Authority Big Data Insights** (2026): Evaluated XGBoost and CatBoost models on historical traffic data to optimize urban congestion management.
+* **Human Skin Disease Detection** (2025): Designed a CNN architecture achieving 92% accuracy across 50,000+ clinical images, reducing diagnostic time by 14%.
+* **Marketing Campaign Performance Dashboard** (2025): Automated real-time tracking for 50K+ records, improving Cost-Per-Acquisition by 18%.
 
 ---
 
 ### 🎓 Education
 
-* **M.A.S. in Data Science** | Illinois Institute of Technology (Expected May 2026)[cite: 1]
-* **B.E. in Computer Engineering** | Savitribai Phule Pune University (May 2024)[cite: 1]
+* **M.A.S. in Data Science** | Illinois Institute of Technology (Expected May 2026)
+* **B.E. in Computer Engineering** | Savitribai Phule Pune University (May 2024)
 
 ---
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[pushkar-visave]&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[pushkar-visave]&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[INSERT YOUR USERNAME]&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[INSERT YOUR USERNAME]&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Let's Connect!
 
-* **LinkedIn:** [linkedin.com/in/pushkar-visave/](https://linkedin.com/in/pushkar-visave/)[cite: 1]
-* **Email:** [pushkarvisave6271@gmail.com](mailto:pushkarvisave6271@gmail.com)[cite: 1]
-* **Location:** Chicago, IL (Open to Relocation)[cite: 1]
+* **LinkedIn:** [linkedin.com/in/pushkar-visave/](https://linkedin.com/in/pushkar-visave/)
+* **Email:** [pushkarvisave6271@gmail.com](mailto:pushkarvisave6271@gmail.com)
+* **Location:** Chicago, IL (Open to Relocation)
 
 *"In God we trust, all others must bring data."* — W. Edwards Deming
