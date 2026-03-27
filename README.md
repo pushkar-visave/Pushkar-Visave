@@ -50,14 +50,6 @@ I am a Data Scientist and Analytics Professional with over 2 years of experience
 
 ---
 
-### 📌 Featured Projects
-
-* **Chicago Transit Authority Big Data Insights** (2026): Evaluated XGBoost and CatBoost models on historical traffic data to optimize urban congestion management.
-* **Human Skin Disease Detection** (2025): Designed a CNN architecture achieving 92% accuracy across 50,000+ clinical images, reducing diagnostic time by 14%.
-* **Marketing Campaign Performance Dashboard** (2025): Automated real-time tracking for 50K+ records, improving Cost-Per-Acquisition by 18%.
-
----
-
 ### 🎓 Education
 
 * **M.A.S. in Data Science** | Illinois Institute of Technology (Expected May 2026)
