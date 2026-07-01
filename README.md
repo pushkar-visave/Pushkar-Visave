@@ -1,58 +1,45 @@
-# Hi, I'm Pushkar Visave! 👋
+# Hey, It's Pushkar! 
 
-### 🚀 Data Scientist | Machine Learning Enthusiast | Master's Student at IIT
+###  Data Analyst | MAS Data Science @ Illinois Tech, Chicago
 
-I am a Data Scientist and Analytics Professional with over 2 years of experience building scalable ETL pipelines, predictive models, and production-ready AI solutions. Currently, I'm pursuing my Master of Applied Science in Data Science at the Illinois Institute of Technology, maintaining a 3.88 GPA while focusing on deploying impactful machine learning architectures. I’m passionate about turning complex datasets into actionable intelligence that drives efficiency and growth.
+Data Analyst with hands-on internship experience in SQL, Power BI, Tableau, and Python-based ETL automation, complemented by a master’s in data science (GPA 3.88) from Illinois Institute of Technology. Track record of translating business requirements into KPI frameworks, self-serve dashboards, and automated reporting pipelines — with additional depth in predictive modeling and statistical analysis that extends into forecasting and decision support.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
-**Languages & Core Data Science**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+## What I work with
 
-**Machine Learning & AI**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-Green?style=for-the-badge)
-![XGBoost](https://img.shields.io/badge/XGBoost-blue?style=for-the-badge)
-
-**Cloud & Data Engineering**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-E24933?style=for-the-badge&logo=databricks&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-
-**Analytics & Visualization**
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=Looker&logoColor=white)
+- **Analytics & Visualization:** Tableau, Power BI (DAX, Data Modeling), Looker, Advanced Excel (Pivot Tables, Power Query, VBA/Macros), A/B Testing, Statistical Analysis, Data Storytelling
+- **Machine Learning & AI:** Machine Learning (Regression, Classification, Clustering), NLP, Time Series Analysis (ARIMA, Prophet), Deep Learning (TensorFlow, Keras), LLMs & RAG (LangChain), Feature Engineering, Model Evaluation
+- **Data & Query Languages:** SQL (PostgreSQL, MySQL, CTEs, Window Functions), Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), R, ETL/ELT Pipelines, Git
+- **Data Platforms & Cloud:** Snowflake, Databricks, AWS (S3, EC2), Azure, Google BigQuery, GCP, Apache Spark, dbt, Airflow (basics), Linux
 
 ---
 
 ### 💼 Work Experience
 
+
+**Graduate Teaching Assistant | Illinois Institute of Technology** (August 2025 - December 2025)
+ 
+* Mentored 60 students across 4 weekly office hours in relational data modeling, ER diagram construction, SQL query debugging (DDL/DML), and PostgreSQL implementation, directly supporting project success in physical database design and performance tuning.
+*	Evaluated 360+ assignments, projects, and exams per semester covering advanced DBMS concepts — including query optimization, indexing, concurrency control, and recovery — maintaining grading consistency across an 85%-student cohort.
+
 **Data Science Intern | Source Code Technology** (July 2023 – Jan 2024)
-* Architected Python/SQL ETL pipelines for clinical trial data, reducing errors by 85%.
-* Led a team of 15 to optimize workflows, accelerating intelligence brief delivery to field teams.
-* Deployed NLP-driven Power BI dashboards to identify high-risk trafficking patterns.
+* Wrote and optimized SQL queries including CTEs and multi-table joins to extract and validate data from large-scale operational datasets, identifying and resolving pipeline inconsistencies that improved downstream reporting reliability by 15% for the analytics team.
+* Built and maintained self-serve Power BI and Tableau dashboards with DAX measures in collaboration with the analytics team, enabling 3+ business units to independently track KPIs and cutting recurring ad hoc report requests by ~20%.
+* Supported cross-functional teams by gathering analytical requirements, mapping them to KPI frameworks, and delivering structured reporting outputs — contributing to a 40% reduction in time-to-insight across operational decision-making workflows.
 
 **Data Science Intern | Acme Grade** (Oct 2022 – Dec 2022)
-* Engineered automated ingestion systems that increased project throughput by 30%.
-* Developed Time-Series models (Prophet, ARIMA) for e-commerce clients, improving forecast reliability by 18%.
-* Visualized complex KPIs in Tableau, contributing to a 12% growth in quarterly sales.
+* Performed data validation, cleaning, and quality checks on 500K+ row datasets using Python (Pandas, NumPy), reducing input error rates by 22% and ensuring data integrity for downstream reporting consumed by the business team.
+* Assisted in translating stakeholder forecasting requirements into structured analytical deliverables using Python-based time-series analysis, improving demand forecast reliability by 18% through cross-validation and iterative business review cycles.
+* Helped engineer automated ETL pipelines in Python to replace manual data preprocessing workflows, compressing preparation time from 4 hours to under 45 minutes and freeing the team to focus on analysis and stakeholder reporting.
 
 ---
 
 ### 🎓 Education
 
-* **M.A.S. in Data Science** | Illinois Institute of Technology (Expected May 2026)
+* **M.A.S. in Data Science** | Illinois Institute of Technology (May 2026)
 * **B.E. in Computer Engineering** | Savitribai Phule Pune University (May 2024)
 
 ---
