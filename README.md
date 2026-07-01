@@ -1,12 +1,11 @@
 # Hey, It's Pushkar! 
-
 ###  Data Analyst | MAS Data Science @ Illinois Tech, Chicago
 
 Data Analyst with hands-on internship experience in SQL, Power BI, Tableau, and Python-based ETL automation, complemented by a master’s in data science (GPA 3.88) from Illinois Institute of Technology. Track record of translating business requirements into KPI frameworks, self-serve dashboards, and automated reporting pipelines — with additional depth in predictive modeling and statistical analysis that extends into forecasting and decision support.
 
 ---
 
-## What I work with
+### What I work with
 
 - **Analytics & Visualization:** Tableau, Power BI (DAX, Data Modeling), Looker, Advanced Excel (Pivot Tables, Power Query, VBA/Macros), A/B Testing, Statistical Analysis, Data Storytelling
 - **Machine Learning & AI:** Machine Learning (Regression, Classification, Clustering), NLP, Time Series Analysis (ARIMA, Prophet), Deep Learning (TensorFlow, Keras), LLMs & RAG (LangChain), Feature Engineering, Model Evaluation
@@ -16,7 +15,6 @@ Data Analyst with hands-on internship experience in SQL, Power BI, Tableau, and 
 ---
 
 ### 💼 Work Experience
-
 
 **Graduate Teaching Assistant | Illinois Institute of Technology** (August 2025 - December 2025)
  
