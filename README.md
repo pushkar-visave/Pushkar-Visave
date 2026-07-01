@@ -6,8 +6,6 @@ Data Analyst with hands-on internship experience in SQL, Power BI, Tableau, and 
 
 ---
 
-### 🛠️ Tech Stack & Skills
-
 ## What I work with
 
 - **Analytics & Visualization:** Tableau, Power BI (DAX, Data Modeling), Looker, Advanced Excel (Pivot Tables, Power Query, VBA/Macros), A/B Testing, Statistical Analysis, Data Storytelling
